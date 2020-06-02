@@ -1,7 +1,7 @@
 {
-"companyName": "Lars von Productions",
-"productName": "Ragdoll 3D Standalone",
-"productVersion": "2 because someone (unity) decided to crap on me",
+"companyName": "Lars Productions",
+"productName": "Ragdoll 3D standalone",
+"productVersion": "0.1",
 "dataUrl": "Ragdoll 3D Standalone WebGL.data.unityweb",
 "wasmCodeUrl": "Ragdoll 3D Standalone WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "Ragdoll 3D Standalone WebGL.wasm.framework.unityweb",
